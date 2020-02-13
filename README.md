@@ -19,7 +19,7 @@ iterations = 1000
 ```
 ## References
 
-Markup : 1. Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second
+Markup :  1. Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second
 		 	edition
          2. Github Link: Shangtong Zhang, Python implementation of Reinforcement Learning: An 
          	Introduction.
