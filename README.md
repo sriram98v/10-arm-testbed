@@ -19,10 +19,10 @@ iterations = 1000
 ```
 ## References
 
-Markup :  1. Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second
-		 	edition
-         2. Github Link: Shangtong Zhang, Python implementation of Reinforcement Learning: An 
-         	Introduction.
-         3. Even-Dar, Eyal \& Mannor, Shie \& Mansour, Yishay. (2003). Action Elimination and 
-         	Stopping Conditions for Reinforcement Learning.. 162-169. 
-         4. https://github.com/jettdlee/10_armed_bandit.git
+1. Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second edition
+         
+2. Github Link: Shangtong Zhang, Python implementation of Reinforcement Learning: An Introduction.
+
+3. Even-Dar, Eyal \& Mannor, Shie \& Mansour, Yishay. (2003). Action Elimination and Stopping Conditions for Reinforcement Learning.. 162-169. 
+
+4. https://github.com/jettdlee/10_armed_bandit.git
