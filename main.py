@@ -2,7 +2,7 @@ import numpy as np
 from agents import epsilon_greedy_agent, softmax_agent, UCB1, MEA
 from env import Environment
 from testbed import Testbed
-"""
+
 num_arms = 10
 iterations = 100
 plays = 3000
@@ -57,7 +57,7 @@ environment = Environment(testbed=testbed, agents=agents, plays=plays, iteration
 avg_rewards, optimal_percent = environment.play()
 
 environment.plot()
-"""
+
 num_arms = 1000
 iterations = 100
 plays = 30000
